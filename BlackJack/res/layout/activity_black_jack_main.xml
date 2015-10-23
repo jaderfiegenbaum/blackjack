@@ -1,0 +1,42 @@
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btNovoJogo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/btNovoJogo" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btRanking"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btRanking" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/btSair"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="37dp"
+                android:text="@string/btSair" />
+
+        </RelativeLayout>
+
+    </LinearLayout>

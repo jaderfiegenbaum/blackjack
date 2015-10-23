@@ -1,0 +1,23 @@
+#resultado
+{
+    font-weight: bold;
+    color: #FFF;
+}
+
+th {
+	font: bold 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #fff;
+    text-align: left;
+	border-right: 1px solid #556B2F;
+	border-bottom: 1px solid #556B2F;
+	border-top: 1px solid #556B2F;
+	letter-spacing: 2px;
+	text-align: left;
+	padding: 10px 10px 10px 10px;
+	background: #006400 no-repeat;
+
+}
+body
+{
+    background-image: url('jackblack.jpg');
+}
