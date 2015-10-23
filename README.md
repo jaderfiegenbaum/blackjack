@@ -1,2 +1,2 @@
 # blackjack
-Game BlackJack para Android
+Game BlackJack para Android.
